@@ -1,2 +1,1 @@
-ThreeKnight è un videogioco sviluppato in gruppo per l'esame di Interfacce grafiche e programmazione ad eventi.
-Il gruppo è formato da Marco Bellizzi, Fabio Barrese e Jan Kompatscher.
+ThreeKnight è un videogioco sviluppato da Marco Bellizzi e Jan Kompatscher per l'esame di Interfacce grafiche e programmazione ad eventi.
