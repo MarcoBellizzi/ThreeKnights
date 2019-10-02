@@ -471,7 +471,6 @@ public class Arena extends JPanel {
 	
 	@Override
 	protected void paintComponent(Graphics g) {
-		// TODO Auto-generated method stub
 		super.paintComponent(g);
 
 		g.drawImage(arena, delta-200, 0, 3200, Window.SCREEN_HEIGHT, this);

@@ -30,7 +30,6 @@ public class MyServer extends Thread{
 
 	@Override
 	public void run() {
-		// TODO Auto-generated method stub
 		super.run();
 
 		try {
@@ -148,7 +147,6 @@ public class MyServer extends Thread{
 			try {
 				incoming.close();
 			} catch (IOException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 		}

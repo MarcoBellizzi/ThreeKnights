@@ -93,9 +93,7 @@ public class PannelloDiProva extends JPanel {
 			public synchronized void keyPressed(KeyEvent e) {	
 				pressed.add(e.getKeyChar());
 				if (pressed.size() > 1) {
-					/*if(pressed.contains()) {
-						//TODO: implement
-					}*/
+					// bho
 				}else {
 					super.keyPressed(e);
 					switch (e.getKeyCode()) {

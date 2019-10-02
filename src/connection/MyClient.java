@@ -31,7 +31,6 @@ public class MyClient extends Thread {
 
 	@Override
 	public void run() {
-		// TODO Auto-generated method stub
 		super.run();
 
 		try {
@@ -153,7 +152,6 @@ public class MyClient extends Thread {
 			try {
 				client.close();
 			} catch (IOException e1) {
-				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
 		}
